@@ -1,0 +1,1 @@
+This provides the weather station information for Typhoon Khanun (1720) and Typhoon Mangkhut (1822) during the two tropical cyclone remote precipitation events in the Yangtze River Delta region. The selected weather stations include reference climatological stations, basic weather stations and conventional meteorological observing stations.
